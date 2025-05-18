@@ -12,5 +12,5 @@ Program will always provide feedback and follow up questions as to what was miss
 |---------------|------------|------------------|
 | Audio-to-Text | Not yet | Not yet |
 | Text-sentiment analysis | Not yet | Not yet |
-| Text-to-Speech | Not yet | Not yet |
+| Text-to-Speech | Dia | Not yet |
 | Text summarization | Not yet | Not yet |
