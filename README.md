@@ -1,4 +1,11 @@
 # blurt
+
+Offline educational tool for providing students with learning materials.
+Grades responses and gives feedback, even modifying learning materials in response to strengths and weaknesses.
+
+------------------------------------------------
+Previously: 
+
 A conversational studying tool for active recall.
 
 ## How to use:
