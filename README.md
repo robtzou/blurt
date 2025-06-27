@@ -3,6 +3,13 @@
 Offline educational tool for providing students with learning materials.
 Grades responses and gives feedback, even modifying learning materials in response to strengths and weaknesses.
 
+## goals for application
+
+- select topic / summarize given material
+- generate material / create runway
+- review and grade answer
+- provide feedback and generate more material
+
 ------------------------------------------------
 Previously: 
 
